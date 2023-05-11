@@ -1,1 +1,2 @@
 # GraphFromScratch
+I wrote a Java code to model a graph with nodes and edges, implementing data structures such as queues, stacks, and trees from scratch. I also implemented algorithms like BFS, DFS, pre-order, and traversal order of a tree. The main objective of my project was to use the SCC algorithm learned in class to find the strong connected components of a given graph.![image](https://github.com/oren1996/GraphFromScratch/assets/81352056/fb134583-4c35-4fd4-bcbc-3a79f16a7a83)
